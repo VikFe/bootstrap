@@ -1,0 +1,43 @@
+.row-main-content {
+    background-color: lightgrey;
+    margin: 30px;
+
+}
+
+.main-title {
+    font-size: 4rem;
+    padding: 1rem;
+    
+}
+.col-12>p {
+    padding: 1rem;
+} 
+
+.main-btn {
+    margin: 1rem;
+}
+
+.card {
+    margin: 0 auto;
+    margin-top: 5px;
+    padding: 0;
+}
+
+.img-card {
+    background-color: lightgrey;
+    height: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: gray;
+}
+
+.container {
+    max-width: 1500px;
+    
+}
+
+.footer {
+    margin-top: 20px;
+}
